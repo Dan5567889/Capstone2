@@ -1,5 +1,5 @@
-import Hero from './Hero'
-import Footer from './footer'
+import Hero from './components/Hero';
+import Footer from './components/Footer.jsx';
 
 import c from '../assets/carousel_images/Image.png'
 import c1 from '../assets/carousel_images/Image 1.png'
